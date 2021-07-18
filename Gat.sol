@@ -1,11 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2021-07-02
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2021-7-2
-*/
-
 /** 
     GLOBAL ARCADE TOKEN
 
