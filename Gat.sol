@@ -1,7 +1,6 @@
 /** 
     GLOBAL ARCADE TOKEN
 
-    This project was launched as a fair launch.
 
     48% FEES PER TRANSACTION FOR 12 HOURS
     - 3% distributed to all holders proportionally
